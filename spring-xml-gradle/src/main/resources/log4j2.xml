@@ -6,7 +6,7 @@
         </Console>
     </Appenders>
     <Loggers>
-        <Logger name= "com.mym.Main" level="all" additivity="false">
+        <Logger name= "com.mym.spring.Main" level="all" additivity="false">
             <AppenderRef ref="Console"/>
         </Logger>
 
