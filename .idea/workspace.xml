@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf256dff-abd9-4179-9d75-be91bd63b88c" name="Changes" comment="Merge remote-tracking branch 'origin/main'" />
+    <list default="true" id="bf256dff-abd9-4179-9d75-be91bd63b88c" name="Changes" comment="Update branch 'homework-1'">
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/src/main/java/com/mym/homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/spring-homework-1/src/main/java/com/mym/homework/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,19 +90,32 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="homework-1" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f7e53772-528b-4eb8-9c42-a5b14f74440f" />
+        <option name="url" value="https://github.com/YaroslavMizgirev/2023-01-otus-spring-mizgirev.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="acu5njn8" />
@@ -120,7 +135,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "jdk.selected.JAVA_MODULE": "liberica-17",
-    "last_opened_file_path": "C:/Users/mizgirev/IdeaProjects/2023-01-otus-spring-mizgirev/spring-homework-1/src/main/resources",
+    "last_opened_file_path": "C:/Users/mizgirev/IdeaProjects/2023-01-otus-spring-mizgirev/spring-homework-1/src/main/java/com/mym/homework",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -129,8 +144,11 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mizgirev\IdeaProjects\2023-01-otus-spring-mizgirev\spring-homework-1\src\main\java\com\mym\homework" />
+      <recent name="C:\Users\mizgirev\IdeaProjects\2023-01-otus-spring-mizgirev\spring-homework-1\src\main\java\com\mym\homework\service" />
+      <recent name="C:\Users\mizgirev\IdeaProjects\2023-01-otus-spring-mizgirev\spring-homework-1\src\main\java\com\mym\homework\domain" />
+      <recent name="C:\Users\mizgirev\IdeaProjects\2023-01-otus-spring-mizgirev\spring-homework-1\src\main\java\com\mym\homework\dao" />
       <recent name="C:\Users\mizgirev\IdeaProjects\2023-01-otus-spring-mizgirev\spring-homework-1\src\main\resources" />
-      <recent name="C:\Users\mizgirev\IdeaProjects\2023-01-otus-spring-mizgirev\spring-homework-1" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -141,29 +159,19 @@
       <recent name="com.mym.homework" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.spring-xml-gradle [build]">
-    <configuration name="InterviewProcessTest.shouldHaveCorrectConstructor" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-homework-1" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;com.mym.homework.service.InterviewProcessTest.shouldHaveCorrectConstructor&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.mym.homework.Main" />
+      <module name="spring-homework-1.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mym.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="InterviewTest.shouldHaveCorrectConstructor" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -253,11 +261,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.spring-xml-gradle [build]" />
         <item itemvalue="Gradle.spring-xml-gradle [test]" />
         <item itemvalue="Gradle.spring-xml-gradle [clean]" />
-        <item itemvalue="Gradle.spring-xml-gradle [build]" />
         <item itemvalue="Gradle.InterviewTest.shouldHaveCorrectConstructor" />
-        <item itemvalue="Gradle.InterviewProcessTest.shouldHaveCorrectConstructor" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +306,28 @@
       <option name="project" value="LOCAL" />
       <updated>1675702653392</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Roollback branch 'main'">
+      <created>1675703528724</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1675703528724</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Update branch 'main'">
+      <created>1675703894375</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1675703894375</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Update branch 'homework-1'">
+      <created>1675704533076</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1675704533076</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -312,7 +341,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="homework-1" />
                       </list>
                     </value>
                   </entry>
@@ -345,6 +374,9 @@
     <MESSAGE value="Update project spring-xml-context." />
     <MESSAGE value="Update project spring-homework-1." />
     <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Roollback branch 'main'" />
+    <MESSAGE value="Update branch 'main'" />
+    <MESSAGE value="Update branch 'homework-1'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update branch 'homework-1'" />
   </component>
 </project>
