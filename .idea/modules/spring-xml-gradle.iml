@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module version="4">
-  <component name="NewModuleRootManager">
+<module external.linked.project.id="spring-xml-gradle" external.linked.project.path="$MODULE_DIR$/../../spring-xml-gradle" external.root.project.path="$MODULE_DIR$/../../spring-xml-gradle" external.system.id="GRADLE" external.system.module.group="com.mym" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_17" inherit-compiler-output="true">
+    <exclude-output />
     <content url="file://$MODULE_DIR$/../../spring-xml-gradle">
-      <excludeFolder url="file://$MODULE_DIR$/../../spring-xml-gradle/bin" />
+      <excludeFolder url="file://$MODULE_DIR$/../../spring-xml-gradle/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../spring-xml-gradle/build" />
     </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
