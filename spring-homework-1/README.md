@@ -1,1 +1,0 @@
-# Spring: XML config.
