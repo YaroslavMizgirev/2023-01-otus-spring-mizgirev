@@ -4,16 +4,83 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf256dff-abd9-4179-9d75-be91bd63b88c" name="Changes" comment="Update branch 'homework-1'">
-      <change afterPath="$PROJECT_DIR$/spring-xml-gradle/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+    <list default="true" id="3e199626-b9dd-4d1d-beb8-a34392927e42" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/2023-01-otus-spring-mizgirev.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/csv-editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-xml-gradle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spring-xml-gradle.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-xml-gradle.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/spring-xml-gradle.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-xml-gradle.main.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/spring-xml-gradle.test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/classes/java/main/com/mym/homework/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/spring-homework-1/build/classes/java/main/com/mym/homework/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/spring-homework-1/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-xml-gradle/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/spring-xml-gradle/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/spring-homework-1/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/spring-homework-1/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/classes/java/main/com/mym/homework/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/classes/java/main/com/mym/homework/dao/Dao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/classes/java/main/com/mym/homework/dao/InterviewParser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/classes/java/main/com/mym/homework/domain/Interview.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/classes/java/main/com/mym/homework/service/InterviewProcess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/classes/java/test/com/mym/homework/domain/InterviewTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/classes/java/test/com/mym/homework/service/InterviewProcessTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/libs/spring-homework-1-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/reports/tests/test/classes/com.mym.homework.domain.InterviewTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/reports/tests/test/classes/com.mym.homework.service.InterviewProcessTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/reports/tests/test/css/base-style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/reports/tests/test/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/reports/tests/test/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/reports/tests/test/js/report.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/reports/tests/test/packages/com.mym.homework.domain.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/reports/tests/test/packages/com.mym.homework.service.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/resources/main/log4j2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/resources/main/questions.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/resources/main/spring-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/test-results/test/TEST-com.mym.homework.domain.InterviewTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/test-results/test/TEST-com.mym.homework.service.InterviewProcessTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/test-results/test/binary/output.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/src/main/java/com/mym/homework/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-homework-1/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/build/classes/java/main/com/mym/spring/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/build/classes/java/main/com/mym/spring/dao/PersonDao.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/build/classes/java/main/com/mym/spring/dao/PersonDaoImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/build/classes/java/main/com/mym/spring/domain/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/build/classes/java/main/com/mym/spring/service/PersonService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/build/classes/java/main/com/mym/spring/service/PersonServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/build/libs/spring-xml-gradle-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/build/resources/main/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/build/resources/main/spring-context.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/build/tmp/jar/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/src/main/java/com/mym/spring/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mym/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/src/main/java/com/mym/spring/dao/PersonDao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/src/main/java/com/mym/spring/dao/PersonDaoImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/src/main/java/com/mym/spring/domain/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/src/main/java/com/mym/spring/service/PersonService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/src/main/java/com/mym/spring/service/PersonServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-xml-gradle/src/main/resources/spring-context.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,69 +88,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$/spring-homework-1">
+    <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
-    <projectState path="$PROJECT_DIR$/spring-xml-gradle">
-      <ProjectState />
-    </projectState>
-  </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <task path="$PROJECT_DIR$/spring-xml-gradle">
-          <activation />
-        </task>
-        <task path="$PROJECT_DIR$/spring-homework-1">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="JUnit5 Test Class" />
-        <option value="Class" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_BRANCH_BY_REPOSITORY">
-      <map>
-        <entry key="$PROJECT_DIR$" value="main" />
-      </map>
-    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="RESET_MODE" value="HARD" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="f7e53772-528b-4eb8-9c42-a5b14f74440f" />
-        <option name="url" value="https://github.com/YaroslavMizgirev/2023-01-otus-spring-mizgirev.git" />
-      </UrlAndAccount>
-    </option>
   </component>
   <component name="MacroExpansionManager">
-    <option name="directoryName" value="acu5njn8" />
+    <option name="directoryName" value="78nmmcda" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2L58bOhioZuSzdA2W1uZbl1drYy" />
+  <component name="ProjectId" id="2MutHbv359hI60radxjVCY4mwET" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -92,241 +110,38 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
-    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "jdk.selected.JAVA_MODULE": "liberica-17",
-    "last_opened_file_path": "C:/Users/mizgi/IdeaProjects/_2023-01-otus-spring-mizgirev",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\mizgirev\IdeaProjects\2023-01-otus-spring-mizgirev\spring-homework-1\src\main\java\com\mym\homework" />
-      <recent name="C:\Users\mizgirev\IdeaProjects\2023-01-otus-spring-mizgirev\spring-homework-1\src\main\java\com\mym\homework\service" />
-      <recent name="C:\Users\mizgirev\IdeaProjects\2023-01-otus-spring-mizgirev\spring-homework-1\src\main\java\com\mym\homework\domain" />
-      <recent name="C:\Users\mizgirev\IdeaProjects\2023-01-otus-spring-mizgirev\spring-homework-1\src\main\java\com\mym\homework\dao" />
-      <recent name="C:\Users\mizgirev\IdeaProjects\2023-01-otus-spring-mizgirev\spring-homework-1\src\main\resources" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="com.mym.homework.service" />
-      <recent name="com.mym.homework.domain" />
-      <recent name="com.mym.homework" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Application.com.mym.spring.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mym.homework.Main" />
-      <module name="spring-homework-1.main" />
+      <option name="MAIN_CLASS_NAME" value="com.mym.Main" />
+      <module name="2023-01-otus-spring-mizgirev.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.mym.homework.*" />
+          <option name="PATTERN" value="com.mym.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="com.mym.spring.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.mym.spring.Main" />
-      <module name="spring-xml-gradle.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.mym.spring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="spring-homework-1 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-homework-1" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="spring-xml-gradle [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-xml-gradle" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="spring-xml-gradle [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/spring-xml-gradle" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.mym.spring.Main" />
-        <item itemvalue="Gradle.spring-homework-1 [build]" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Gradle.spring-xml-gradle [build]" />
-        <item itemvalue="Gradle.spring-xml-gradle [test]" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bf256dff-abd9-4179-9d75-be91bd63b88c" name="Changes" comment="" />
-      <created>1675149653860</created>
+      <changelist id="3e199626-b9dd-4d1d-beb8-a34392927e42" name="Changes" comment="" />
+      <created>1678629213341</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1675149653860</updated>
+      <updated>1678629213341</updated>
     </task>
-    <task id="LOCAL-00001" summary="Update project spring-xml-context.">
-      <created>1675151439698</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1675151439698</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Update project spring-homework-1.">
-      <created>1675702599453</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1675702599453</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Update project spring-homework-1.">
-      <created>1675702621009</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1675702621009</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'origin/main'">
-      <created>1675702653392</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1675702653392</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Roollback branch 'main'">
-      <created>1675703528724</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1675703528724</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Update branch 'main'">
-      <created>1675703894375</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1675703894375</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Update branch 'homework-1'">
-      <created>1675704533076</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1675704533076</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
     <servers />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="homework-1" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-        <entry key="cad428bf-4873-481c-bd33-98469d70ba9e">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="range">
-                    <value>
-                      <list>
-                        <option value="1d477a674abbd6ba1214a90181253d9d4e35e9f6..d65f51bc6ef493d2d33ab04454c730a8515da095" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Update project spring-xml-context." />
-    <MESSAGE value="Update project spring-homework-1." />
-    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
-    <MESSAGE value="Roollback branch 'main'" />
-    <MESSAGE value="Update branch 'main'" />
-    <MESSAGE value="Update branch 'homework-1'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update branch 'homework-1'" />
   </component>
 </project>
